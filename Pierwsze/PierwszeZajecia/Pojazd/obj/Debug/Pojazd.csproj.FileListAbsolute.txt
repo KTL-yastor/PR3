@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Pojazd\obj\Debug\Pojazd.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Pojazd\obj\Debug\Pojazd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Pojazd\obj\Debug\Pojazd.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Pojazd\bin\Debug\Pojazd.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Pojazd\bin\Debug\Pojazd.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Pojazd\bin\Debug\Pojazd.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Pojazd\obj\Debug\Pojazd.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Pojazd\obj\Debug\Pojazd.pdb

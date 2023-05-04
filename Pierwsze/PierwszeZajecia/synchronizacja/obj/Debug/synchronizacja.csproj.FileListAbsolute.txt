@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\synchronizacja\bin\Debug\synchronizacja.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\synchronizacja\bin\Debug\synchronizacja.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\synchronizacja\bin\Debug\synchronizacja.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\synchronizacja\obj\Debug\synchronizacja.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\synchronizacja\obj\Debug\synchronizacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\synchronizacja\obj\Debug\synchronizacja.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\synchronizacja\obj\Debug\synchronizacja.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\synchronizacja\obj\Debug\synchronizacja.pdb

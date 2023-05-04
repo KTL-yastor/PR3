@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Calkowanie\bin\Debug\Calkowanie.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Calkowanie\bin\Debug\Calkowanie.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Calkowanie\bin\Debug\Calkowanie.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Calkowanie\obj\Debug\Calkowanie.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Calkowanie\obj\Debug\Calkowanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Calkowanie\obj\Debug\Calkowanie.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Calkowanie\obj\Debug\Calkowanie.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Calkowanie\obj\Debug\Calkowanie.pdb

@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\watki\bin\Debug\watki.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\watki\bin\Debug\watki.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\watki\bin\Debug\watki.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\watki\obj\Debug\watki.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\watki\obj\Debug\watki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\watki\obj\Debug\watki.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\watki\obj\Debug\watki.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\watki\obj\Debug\watki.pdb

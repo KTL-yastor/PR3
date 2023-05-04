@@ -1,0 +1,15 @@
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\bin\Debug\net6.0\tut.exe
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\bin\Debug\net6.0\tut.deps.json
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\bin\Debug\net6.0\tut.runtimeconfig.json
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\bin\Debug\net6.0\tut.dll
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\bin\Debug\net6.0\tut.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\obj\Debug\net6.0\tut.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\obj\Debug\net6.0\tut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\obj\Debug\net6.0\tut.AssemblyInfoInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\obj\Debug\net6.0\tut.AssemblyInfo.cs
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\obj\Debug\net6.0\tut.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\obj\Debug\net6.0\tut.dll
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\obj\Debug\net6.0\refint\tut.dll
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\obj\Debug\net6.0\tut.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\obj\Debug\net6.0\tut.genruntimeconfig.cache
+C:\Users\Piotr\Desktop\Studia\PR3\tut\tut\tut\obj\Debug\net6.0\ref\tut.dll

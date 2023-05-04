@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Indekser\obj\Debug\Indekser.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Indekser\obj\Debug\Indekser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Indekser\obj\Debug\Indekser.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Indekser\bin\Debug\Indekser.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Indekser\bin\Debug\Indekser.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Indekser\bin\Debug\Indekser.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Indekser\obj\Debug\Indekser.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Indekser\obj\Debug\Indekser.pdb

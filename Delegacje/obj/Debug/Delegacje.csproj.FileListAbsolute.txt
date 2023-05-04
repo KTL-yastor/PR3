@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Delegacje\bin\Debug\Delegacje.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Delegacje\bin\Debug\Delegacje.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Delegacje\bin\Debug\Delegacje.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Delegacje\obj\Debug\Delegacje.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Delegacje\obj\Debug\Delegacje.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Delegacje\obj\Debug\Delegacje.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Delegacje\obj\Debug\Delegacje.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Delegacje\obj\Debug\Delegacje.pdb

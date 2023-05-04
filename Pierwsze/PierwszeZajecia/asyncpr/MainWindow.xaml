@@ -1,0 +1,43 @@
+﻿<Window x:Class="asyncpr.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:asyncpr"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition  Height="10"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width=".2*" />
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition />
+            <ColumnDefinition Width="20"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="tb_first" Grid.Column="2" FontSize="20" TextWrapping="Wrap" Text="TextBlock" Grid.Row="0" />
+        <Label FontSize="25" x:Name="Label_pierwszy" Grid.Column="2" Content="Test label text" HorizontalAlignment="Center"  VerticalAlignment="Center"/>
+        <Button x:Name="bnt_first" Grid.Column="2" Content="Pracuj i Uaktualnij"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"  Grid.Row="1" Click="bnt_first_Click" />
+        <Button x:Name="bnt_second" Grid.Column="2" Content="Pracuj i Uaktualnij w nowym wątku"  Grid.Row="2" HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Click="bnt_second_Click" />
+        <Button x:Name="bnt_third" Grid.Column="2" Content="box"  Grid.Row="3"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Click="bnt_third_Click"/>
+        <Button x:Name="bnt_four" Grid.Column="2" Content="Button"  Grid.Row="4"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Click="bnt_four_Click"/>
+        <Button x:Name="bnt_five" Grid.Column="2" Content="Pracuje i uaktualnia i nie zawiesza"  Grid.Row="5"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Click="bnt_five_Click"/>
+        <Button x:Name="bnt_awaitTylkoDlaOperacji" Grid.Column="2" Content="Await dla operacji"  Grid.Row="6"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Click="bnt_awaitTylkoDlaOperacji_Click"/>
+        <Button x:Name="bnt_asyncAwait1" Grid.Column="2" Content="Async + await1"  Grid.Row="7"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Click="bnt_asyncAwait1_Click"/>
+        <Button x:Name="bnt_eight" Grid.Column="2" Content="Button"  Grid.Row="8"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"/>
+        <CheckBox Grid.Column="2" Content="CheckBox"  Grid.Row="9" VerticalAlignment="Center" HorizontalAlignment="Center" />
+        <Image Grid.Column="0" Source="/pic/test.jpg"   Grid.RowSpan="10" Stretch="UniformToFill" Cursor="ArrowCD" />
+        <Rectangle Fill="Black" Grid.Row="10" Grid.ColumnSpan="4" />
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\bin\Debug\asyncpr.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\bin\Debug\asyncpr.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\bin\Debug\asyncpr.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\asyncpr.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\asyncpr.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\asyncpr_MarkupCompile.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\asyncpr_MarkupCompile.lref
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\asyncpr.g.resources
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\asyncpr.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\asyncpr.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\asyncpr.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\asyncpr.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\asyncpr\obj\Debug\asyncpr.pdb

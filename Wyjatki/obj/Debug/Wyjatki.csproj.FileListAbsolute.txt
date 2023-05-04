@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Wyjatki\bin\Debug\Wyjatki.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Wyjatki\bin\Debug\Wyjatki.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Wyjatki\bin\Debug\Wyjatki.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Wyjatki\obj\Debug\Wyjatki.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Wyjatki\obj\Debug\Wyjatki.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Wyjatki\obj\Debug\Wyjatki.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Wyjatki\obj\Debug\Wyjatki.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Wyjatki\obj\Debug\Wyjatki.pdb

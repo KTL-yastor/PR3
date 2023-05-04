@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\TabliczkaMnozenia\bin\Debug\TabliczkaMnozenia.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\TabliczkaMnozenia\bin\Debug\TabliczkaMnozenia.exe
+C:\Users\Piotr\Desktop\Studia\PR3\TabliczkaMnozenia\bin\Debug\TabliczkaMnozenia.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\TabliczkaMnozenia\obj\Debug\TabliczkaMnozenia.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\TabliczkaMnozenia\obj\Debug\TabliczkaMnozenia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\TabliczkaMnozenia\obj\Debug\TabliczkaMnozenia.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\TabliczkaMnozenia\obj\Debug\TabliczkaMnozenia.exe
+C:\Users\Piotr\Desktop\Studia\PR3\TabliczkaMnozenia\obj\Debug\TabliczkaMnozenia.pdb

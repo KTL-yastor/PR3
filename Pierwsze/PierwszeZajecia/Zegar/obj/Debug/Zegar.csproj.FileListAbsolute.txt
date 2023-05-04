@@ -1,0 +1,16 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\bin\Debug\Zegar.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\bin\Debug\Zegar.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\bin\Debug\Zegar.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\Zegar.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\Zegar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\Zegar_MarkupCompile.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\Zegar_MarkupCompile.lref
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\Zegar.g.resources
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\Zegar.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\Zegar.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\Zegar.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\Zegar.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\Zegar\obj\Debug\Zegar.pdb

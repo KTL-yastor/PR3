@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\idWatkuZadania\bin\Debug\idWatkuZadania.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\idWatkuZadania\bin\Debug\idWatkuZadania.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\idWatkuZadania\bin\Debug\idWatkuZadania.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\idWatkuZadania\obj\Debug\idWatkuZadania.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\idWatkuZadania\obj\Debug\idWatkuZadania.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\idWatkuZadania\obj\Debug\idWatkuZadania.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\idWatkuZadania\obj\Debug\idWatkuZadania.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Pierwsze\PierwszeZajecia\idWatkuZadania\obj\Debug\idWatkuZadania.pdb

@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Przeciazenia\bin\Debug\Przeciazenia.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Przeciazenia\bin\Debug\Przeciazenia.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Przeciazenia\bin\Debug\Przeciazenia.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Przeciazenia\obj\Debug\Przeciazenia.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Przeciazenia\obj\Debug\Przeciazenia.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Przeciazenia\obj\Debug\Przeciazenia.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Przeciazenia\obj\Debug\Przeciazenia.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Przeciazenia\obj\Debug\Przeciazenia.pdb

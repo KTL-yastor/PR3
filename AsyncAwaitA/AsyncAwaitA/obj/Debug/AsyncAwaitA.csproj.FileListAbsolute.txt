@@ -1,0 +1,16 @@
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\bin\Debug\AsyncAwaitA.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\bin\Debug\AsyncAwaitA.exe
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\bin\Debug\AsyncAwaitA.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\AsyncAwaitA.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\AsyncAwaitA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\MainWindow.g.cs
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\App.g.cs
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\AsyncAwaitA_MarkupCompile.cache
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\AsyncAwaitA_MarkupCompile.lref
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\MainWindow.baml
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\AsyncAwaitA.g.resources
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\AsyncAwaitA.Properties.Resources.resources
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\AsyncAwaitA.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\AsyncAwaitA.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\AsyncAwaitA.exe
+C:\Users\Piotr\Desktop\Studia\PR3\AsyncAwaitA\AsyncAwaitA\obj\Debug\AsyncAwaitA.pdb

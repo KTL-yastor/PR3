@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\WyjatkiZadanie5\bin\Debug\WyjatkiZadanie5.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\WyjatkiZadanie5\bin\Debug\WyjatkiZadanie5.exe
+C:\Users\Piotr\Desktop\Studia\PR3\WyjatkiZadanie5\bin\Debug\WyjatkiZadanie5.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\WyjatkiZadanie5\obj\Debug\WyjatkiZadanie5.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\WyjatkiZadanie5\obj\Debug\WyjatkiZadanie5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\WyjatkiZadanie5\obj\Debug\WyjatkiZadanie5.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\WyjatkiZadanie5\obj\Debug\WyjatkiZadanie5.exe
+C:\Users\Piotr\Desktop\Studia\PR3\WyjatkiZadanie5\obj\Debug\WyjatkiZadanie5.pdb

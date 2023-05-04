@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\RefOutGeneryczne\bin\Debug\RefOutGeneryczne.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\RefOutGeneryczne\bin\Debug\RefOutGeneryczne.exe
+C:\Users\Piotr\Desktop\Studia\PR3\RefOutGeneryczne\bin\Debug\RefOutGeneryczne.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\RefOutGeneryczne\obj\Debug\RefOutGeneryczne.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\RefOutGeneryczne\obj\Debug\RefOutGeneryczne.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\RefOutGeneryczne\obj\Debug\RefOutGeneryczne.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\RefOutGeneryczne\obj\Debug\RefOutGeneryczne.exe
+C:\Users\Piotr\Desktop\Studia\PR3\RefOutGeneryczne\obj\Debug\RefOutGeneryczne.pdb
