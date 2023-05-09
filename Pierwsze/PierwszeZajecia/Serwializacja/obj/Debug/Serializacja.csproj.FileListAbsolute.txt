@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\Serwializacja\bin\Debug\Serwializacja.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\Serwializacja\bin\Debug\Serwializacja.exe
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\Serwializacja\bin\Debug\Serwializacja.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\Serwializacja\obj\Debug\Serializacja.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\Serwializacja\obj\Debug\Serializacja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\Serwializacja\obj\Debug\Serializacja.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\Serwializacja\obj\Debug\Serwializacja.exe
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\Serwializacja\obj\Debug\Serwializacja.pdb

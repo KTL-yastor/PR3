@@ -138,11 +138,23 @@ namespace asyncpr
 
             return ZwrocWynik(); 
         }
-            
+
+        async Task<string> PracujOrazZwrocWynikAsync3()
+        {
+
+
+            return await Task.Run(pracujOrazZwrocWynik);
+        }
+
         private async void bnt_asyncAwait1_Click(object sender, RoutedEventArgs e)
         {
             Label_pierwszy.Content = await PracujOrazZwrocWynikAsync2();
 
+        }
+
+        async private void bnt_eight_Click(object sender, RoutedEventArgs e)
+        {
+            Label_pierwszy.Content = await PracujOrazZwrocWynikAsync3();
         }
     }
 }

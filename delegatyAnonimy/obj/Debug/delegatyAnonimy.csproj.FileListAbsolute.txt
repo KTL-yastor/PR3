@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\delegatyAnonimy\bin\Debug\delegatyAnonimy.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\delegatyAnonimy\bin\Debug\delegatyAnonimy.exe
+C:\Users\Piotr\Desktop\Studia\PR3\delegatyAnonimy\bin\Debug\delegatyAnonimy.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\delegatyAnonimy\obj\Debug\delegatyAnonimy.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\delegatyAnonimy\obj\Debug\delegatyAnonimy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\delegatyAnonimy\obj\Debug\delegatyAnonimy.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\delegatyAnonimy\obj\Debug\delegatyAnonimy.exe
+C:\Users\Piotr\Desktop\Studia\PR3\delegatyAnonimy\obj\Debug\delegatyAnonimy.pdb

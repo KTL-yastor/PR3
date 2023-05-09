@@ -35,7 +35,7 @@
         <Button x:Name="bnt_five" Grid.Column="2" Content="Pracuje i uaktualnia i nie zawiesza"  Grid.Row="5"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Click="bnt_five_Click"/>
         <Button x:Name="bnt_awaitTylkoDlaOperacji" Grid.Column="2" Content="Await dla operacji"  Grid.Row="6"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Click="bnt_awaitTylkoDlaOperacji_Click"/>
         <Button x:Name="bnt_asyncAwait1" Grid.Column="2" Content="Async + await1"  Grid.Row="7"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Click="bnt_asyncAwait1_Click"/>
-        <Button x:Name="bnt_eight" Grid.Column="2" Content="Button"  Grid.Row="8"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch"/>
+        <Button x:Name="bnt_eight" Grid.Column="2" Content="Button"  Grid.Row="8"  HorizontalAlignment="Stretch"  VerticalAlignment="Stretch" Click="bnt_eight_Click"/>
         <CheckBox Grid.Column="2" Content="CheckBox"  Grid.Row="9" VerticalAlignment="Center" HorizontalAlignment="Center" />
         <Image Grid.Column="0" Source="/pic/test.jpg"   Grid.RowSpan="10" Stretch="UniformToFill" Cursor="ArrowCD" />
         <Rectangle Fill="Black" Grid.Row="10" Grid.ColumnSpan="4" />

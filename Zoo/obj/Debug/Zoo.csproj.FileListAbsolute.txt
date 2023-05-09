@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Zoo\bin\Debug\Zoo.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Zoo\bin\Debug\Zoo.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Zoo\bin\Debug\Zoo.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Zoo\obj\Debug\Zoo.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Zoo\obj\Debug\Zoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Zoo\obj\Debug\Zoo.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Zoo\obj\Debug\Zoo.pdb

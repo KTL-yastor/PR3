@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\SerializacjaXML\bin\Debug\SerializacjaXML.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\SerializacjaXML\bin\Debug\SerializacjaXML.exe
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\SerializacjaXML\bin\Debug\SerializacjaXML.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\SerializacjaXML\obj\Debug\SerializacjaXML.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\SerializacjaXML\obj\Debug\SerializacjaXML.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\SerializacjaXML\obj\Debug\SerializacjaXML.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\SerializacjaXML\obj\Debug\SerializacjaXML.exe
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Pierwsze\PierwszeZajecia\SerializacjaXML\obj\Debug\SerializacjaXML.pdb

@@ -1,0 +1,6 @@
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\04-SerializacjaBinarnaKlasy\bin\Debug\04-SerializacjaBinarnaKlasy.exe
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\04-SerializacjaBinarnaKlasy\bin\Debug\04-SerializacjaBinarnaKlasy.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\04-SerializacjaBinarnaKlasy\obj\Debug\04-SerializacjaBinarnaKlasy.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\04-SerializacjaBinarnaKlasy\obj\Debug\04-SerializacjaBinarnaKlasy.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\04-SerializacjaBinarnaKlasy\obj\Debug\04-SerializacjaBinarnaKlasy.exe
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\04-SerializacjaBinarnaKlasy\obj\Debug\04-SerializacjaBinarnaKlasy.pdb

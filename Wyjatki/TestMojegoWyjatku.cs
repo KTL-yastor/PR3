@@ -11,7 +11,7 @@ namespace Wyjatki
         private Random r;
         public TestMojegoWyjatku()
         {
-            r = new Random(); 
+            r = new Random();
         }
 
         public void Test()
@@ -20,9 +20,10 @@ namespace Wyjatki
             
             double a = r.NextDouble();
             double b = r.NextDouble();
+
             if (a * a + b * b < 1)
             {
-                throw new MojException();
+                throw new MojException((a * a + b * b).ToString(), "Wyrzucono wyjatek customowy");
             }
         }
     }

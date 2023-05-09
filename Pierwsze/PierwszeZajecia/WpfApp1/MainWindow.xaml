@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:WpfApp1"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Closing="Window_Closing">
-    <Grid>
+    <Grid x:Name="ex">
         <TextBox x:Name="dane_wejsciowe" HorizontalAlignment="Left" Margin="193,127,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" TextChanged="dane_wejsciowe_TextChanged"/>
         <Button x:Name="onoweokno" Content="Button" HorizontalAlignment="Left" Margin="360,127,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.707,0.453" Click="Button_Click_2"/>
         <Button x:Name="przycisk"    Content="Wpisz" HorizontalAlignment="Left" Margin="360,182,0,0" VerticalAlignment="Top" Click="Button_Click_1"/>

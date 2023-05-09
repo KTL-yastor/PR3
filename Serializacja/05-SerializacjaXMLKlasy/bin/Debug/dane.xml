@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Dane xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <liczba>12345</liczba>
+  <data>2020-04-23T13:40:39.3679578+02:00</data>
+  <lancuch>Łańcuch danych</lancuch>
+  <tablica>
+    <double>1</double>
+    <double>2.5</double>
+    <double>3.2</double>
+    <double>4.1</double>
+  </tablica>
+</Dane>

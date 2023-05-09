@@ -36,7 +36,7 @@ namespace Zegar
             {
                 dt = new DispatcherTimer();
                 dt.Interval = TimeSpan.FromSeconds(1);
-                lb_time.Content = DateTime.Now.ToString("HH:mm:ss"); // początkowa wartość
+                lb_time.Content = DateTime.Now.ToString("HH:mm:ss"); // początkowa wartość bo inaczej trzeba czekac 1 sek zanim cos wyswietli
                 dt.Tick += Zdarzenie_Tick; // += to operator dodawania zdarzenia do listy zdarzen (chyba jest delegatem)
                 
             }
@@ -52,9 +52,12 @@ namespace Zegar
 
         private void bnt_Stop_Click(object sender, RoutedEventArgs e)
         {
-            dt.Stop();
-            dt = null;
-            lb_time.Content = "[Off]";
+            if (dt != null)
+            {
+                dt.Stop();
+                dt = null;
+                lb_time.Content = "[Off]";
+            }
         }
     }
 }

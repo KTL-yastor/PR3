@@ -39,7 +39,7 @@ namespace Wyjatki
                 Console.WriteLine("TargetSite:\n{0}\n", e.TargetSite);
             }
             // Console.WriteLine("Wynik: {0}", wynik);
-            int iloscKrokow = 100000;
+            int iloscKrokow = 1000;
             int iloscWyrzucenWyjatku = 0;
             TestMojegoWyjatku t = new TestMojegoWyjatku();
 
@@ -49,8 +49,9 @@ namespace Wyjatki
                 {
                     t.Test();
                 }
-                catch (MojException)
+                catch (MojException ex)
                 {
+                    Console.WriteLine(ex.ErrorCode + ex.Message);
                     iloscWyrzucenWyjatku++;
                 }
             }

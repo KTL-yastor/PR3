@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\12-SerializacjaJSONKlasy\bin\Debug\12-SerializacjaJSONKlasy.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\12-SerializacjaJSONKlasy\bin\Debug\12-SerializacjaJSONKlasy.exe
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\12-SerializacjaJSONKlasy\bin\Debug\12-SerializacjaJSONKlasy.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\12-SerializacjaJSONKlasy\obj\Debug\12-SerializacjaJSONKlasy.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\12-SerializacjaJSONKlasy\obj\Debug\12-SerializacjaJSONKlasy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\12-SerializacjaJSONKlasy\obj\Debug\12-SerializacjaJSONKlasy.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\12-SerializacjaJSONKlasy\obj\Debug\12-SerializacjaJSONKlasy.exe
+C:\Users\Piotr\Desktop\Studia\PR3\github\PR3\Serializacja\12-SerializacjaJSONKlasy\obj\Debug\12-SerializacjaJSONKlasy.pdb

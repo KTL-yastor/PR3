@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ArrayOfDouble xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <double>1</double>
+  <double>2.5</double>
+  <double>3.2</double>
+  <double>4.1</double>
+</ArrayOfDouble>

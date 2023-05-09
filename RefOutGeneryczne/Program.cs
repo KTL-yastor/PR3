@@ -10,7 +10,7 @@ namespace RefOutGeneryczne
     {
         static void Main(string[] args)
         {
-            int[] tab = { 1, 2, 3, 4, 5, 6, 7, 8, 8, 8, 9};
+            int[] tab = {1, 2, 3, 4, 5, 6, 7, 8, 8, 8, 9};
             int maks;
             //Max(out maks, 2,2,2,2,3,4,4,4,56,4576,456,456,456,456,456456);
             //Console.WriteLine("Maksymalna wartosc to {0}", maks);

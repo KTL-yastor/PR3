@@ -1,0 +1,8 @@
+C:\Users\Piotr\Desktop\Studia\PR3\Watki2\bin\Debug\Watki2.exe.config
+C:\Users\Piotr\Desktop\Studia\PR3\Watki2\bin\Debug\Watki2.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Watki2\bin\Debug\Watki2.pdb
+C:\Users\Piotr\Desktop\Studia\PR3\Watki2\obj\Debug\Watki2.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Watki2\obj\Debug\Watki2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Watki2\obj\Debug\Watki2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\Studia\PR3\Watki2\obj\Debug\Watki2.exe
+C:\Users\Piotr\Desktop\Studia\PR3\Watki2\obj\Debug\Watki2.pdb
